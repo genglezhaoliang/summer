@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>赵亮</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1><a href="../index/index.html">iBook<span> iRead</span></a><small>I juts love it</small></h1>
+      </div>
+      <div class="clr"></div>
+      <div class="menu_nav">
+        <ul>
+         <li><a href="../index/index.html">首页</a></li>
+          <li class="active"><a href="qcwx.html">青春文学</a></li>
+          <li><a href="zwsb.html">杂文随笔</a></li>
+		  <li><a href="wzsm.html">网站说明</a></li>
+		  <li class="last"><a href="zc.html">注册</a></li>
+        </ul>
+      
+        </form>
+      </div>
+      <!--/search -->
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="clr"></div>
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2><span></span>标题</h2><div class="clr"></div>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp青春文学，又称青春美文，刚开始它的概念离文学的距离还是远的，它的作者是80后、90后的年轻人，他们写的作品大部分的意思没有很深的内涵，是一个商业化的产品。目前青春文学已经占上市场的顶峰了，它的读者已经超过名著的读者了，读者大部分是16——26岁的年轻人，它有受大众欢迎之处，但是也有弊处。</br></br>
+<font size="5">代表人物</font></br></br>
+<font size="4">郭敬明</font></br><div> <img src="../images/gjm.jpg" width="589" height="193" alt="image" /></div>
+青春文学在某一阶段又称为疼痛温暖文学，是由郭敬明为首的80后在在20世纪末21世纪初开创。他的一系列代表作《幻城》、《爱与痛的边缘》、《梦里花落知多少》是疼痛温暖文学的典范。后来他又创办了《岛》系列图书和《最小说》杂志，带领中国的青春文学走上了一个又一个的高峰。</br></br>
+<font size="4">饶雪漫</font></br><div> <img src="../images/rxm.jpg" width="589" height="193" alt="image" /></div>
+饶雪漫，出生于1972年12月11日。中国四川自贡人，青春文学职业写手。与伍美珍、郁雨君成立国内第一个作家组合“花衣裳”，从十四岁发表文学至今，已经在青春文学经营了十八年。已出版作品五十余部，代表作有《小妖的金色城堡》、《校服的裙摆》、《左耳》、《沙漏》、《离歌》、《秘果》等，作品多次登上全国各地（含港台地区）畅销书排行榜，是当之无愧的青春文学领军人物。2008年12月1日，“2008第三届中国作家富豪榜”重磅发布，饶雪漫以800万元的版税收入，荣登作家富豪榜第4位，引发广泛关注。[1]</br></br>
+<font size="4">明晓溪</font></br><div> <img src="../images/mxx.jpg" width="589" height="193" alt="image" /></div>
+当代女作家，武汉大学硕士。代表作品有《旋风少女》、《明若晓溪》、《泡沫之夏》、《会有天使替我爱你》等。2008年，明晓溪以300万元的版税收入，荣登第三届【中国作家富豪榜】第11位，引发广泛关注。而文笔细腻的明晓溪也有“现代小琼瑶”之称。</br></br>
+<font size="4">郭妮</font></br><div> <img src="../images/gn.jpg" width="589" height="193" alt="image" /></div>
+80后青春偶像作家，有日产万字“华语小天后”的称号。创建杂志《火星少女》，面向年轻女读者的刊物。其小说主要为少女向的青春恋爱小说，号称“亿元女仔”，以高产闻名。代表作：《麻雀要革命》、《天使街23号》、《恶魔的法则》、《壁花小姐奇遇记》、《再见苏菲斯》。
+其他：浅尝辄逝、张悦然，春树，周嘉宁等实力派作家。</br></br>
+<font size="4">小妮子</font></br><div> <img src="../images/xnz.jpg" width="589" height="193" alt="image" /></div>
+小妮子，中国内地言情小说作家，有“青春文坛新派天后”、“青春小说掌门人”“华语文坛纯爱天后”等美称，引领日益壮大的魅丽优品成为青春文学第一流行品牌。2004年，小妮子处女作出版，《恶魔之吻》第一部以黑马之势席卷全国，奇迹般地创下百万册的销售神话，掀起一股铺天盖地的“小妮子热潮”，奠定了小妮子在青春文坛的地位。代表作有《恶魔之吻》、《仲夏夜之恋》、《亲亲亲吻鱼》、《森永高中三年二组》等。</br></br>
+
+        </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2> Menu</h2>
+          <div class="clr"></div>
+          <ul class="sb_menu">
+            <li><a href="../menu/one.html">月光</a></li>
+            <li><a href="../menu/two.html">二月兰</a></li>
+            <li><a href="../menu/three.html">白菜玫瑰</a></li>
+            <li><a href="../menu/four.html">骆驼和山羊</a></li>
+            <li><a href="../menu/five.html">片刻的忏悔</a></li>
+          </ul>
+        </div>
+        <div class="gadget">
+          <h2><span>FriendlyLink</span></h2>
+          <div class="clr"></div>
+          <ul class="ex_menu">
+            <li><a href="../menu/magicHat.html" title="Website Templates">魔法帽子</a><br />
+              实验课编写的魔法帽子示例</li>
+           <li><a href="../menu/pobaby.html" title="WordPress Themes">小破孩</a><br />
+             “javascript+css的应用”实验中做的示例</li>
+        </div>
+        <div class="gadget">
+          <h2>Wise Words</h2>
+          <div class="clr"></div>
+          <p>   <img src="../images/test_1.gif" alt="image" width="18" height="17" /> <em>一个人，一个民族，精神上发生危机，恰好表明这个人、这个民族有执拗的精神追求，有自我反省的勇气。可怕的不是危机，而是麻木。</em>.<img src="../images/test_2.gif" alt="image" width="18" height="17" /></p>
+          <p style="float:right;"><strong>周国平</strong></p>
+          </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>姓名</span></h2>
+		 <p><font size="6">我的信息</font><br/><br/>
+         姓名：赵亮  <br/>                               
+		 学号：2012234030212 <br/>       
+		 班级：网络1201班   <br/>      
+		 </p>
+       </div>
+      <div class="col c2">
+        <p><font size="6">电子邮件</font><br/><br/>
+          435552365@qq.com<br/>
+      </div>
+      <div class="col c3">
+        <h2><span>电话</span></h2>
+		<p><font size="6">电话</font><br/><br/>
+		15131272520 <br/>
+      </div>
+      <div class="clr"></div>
+    </div>
+    <div class="footer">
+	<div class="clr"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

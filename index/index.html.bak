@@ -1,0 +1,130 @@
+<html>
+<head>
+<title>我的主页</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script language="javascript"> 
+function sdiv() 
+{ 
+document.getElementById('div1').style.display='block'; 
+} 
+function hdiv() 
+{ 
+document.getElementById('div1').style.display='none'; 
+} 
+</script>
+</head>
+<body>
+<div id="div1" style="display:none; position:absolute; postion:30px 900px; background-color:#555;">网络1201班      &nbsp &nbsp &nbsp 赵亮    &nbsp &nbsp &nbsp   学号2012234030212    &nbsp &nbsp &nbsp   爱好运动</div>
+<bgsound src="music.mid" loop="-1">
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1><a onmouseover="sdiv()" onmouseout="hdiv()">iBook<span> iRead</span></a><small>I juts love it</small></h1>
+      </div>
+      <div class="clr"></div>
+      <div class="menu_nav">
+        <ul>
+          <li><a href="index.html">首页</a></li>
+          <li><a href="../lanmu/qcwx.html">青春文学</a></li>
+          <li><a href="../lanmu/zwsb.html">杂文随笔</a></li>
+		   <li><a href="../lanmu/wzsm.html">网站说明</a></li>
+		  <li class="last"><a href="../lanmu/zc.html">注册</a></li>
+        </ul>
+      
+        </form>
+      </div>
+      <!--/search -->
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="clr"></div>
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2><span>One</span></h2>
+          <div class="clr"></div>
+          <p>我最怀念某年，空气自由新鲜，远山和炊烟，狗和田野，我沉睡一夏天。——韩寒 </p>
+          <img src="../images/img_1.jpg" width="589" height="193" alt="image" />
+          <div class="clr"></div>
+          <p>闲暇之余，当你去欣赏一篇美妙的散文。它可以随时带你走进风景秀丽的田园风光、或是感受异域风情、或是欣赏春花秋月，无论远古还是未来，都仿佛是身临其境。若能读到励志之作，从中吸取足够的坚强与毅力，也可以把自己培养成一位生活中的强者，适应瞬息万变的世界。若是有幸读到几首好诗，品几阕宋词，更能让人心旷神怡了。此是读书之乐也，正如孟德斯鸠所说，喜爱读书，就等于把生活中寂寞无聊的时光换成巨大享受的时刻。</p>
+          <p>如果世间真有这么一种状态：心灵十分充实和宁静，既不怀恋过去也不奢望将来，放任光阴的流逝而仅仅掌握现在，无匮乏之感也无享受之感，不快乐也不忧愁，既无所求也无所惧，而只感受到自己的存在，处于这种状态的人就可以说自己得到了幸福 </p>
+       
+        </div>
+        <div class="article">
+          <h2><span>Two</span></h2>
+          <div class="clr"></div>
+          <p>在我的右眼下有一颗痣，那是一颗会使人流泪的痣。如果可以，只让我的右眼去流泪吧。另一只眼睛，让她拥有明媚与微笑。——田维</p>
+          <img src="../images/img_3.jpg" width="613" height="193" alt="image" />
+          <div class="clr"></div>
+          <p>满天的飞鸟从天空呼啸而过，当你发觉后用眼睛去寻找，却只看到了他们渐行渐远的渺小身影。如同散场的青春，还没来得及观摩她的模样，却早已转身天涯，像一阵暖风，只留下心头的一点温热。旅行，带着流浪的气息，让无数青春的心底涌出热切的憧憬。
+流浪的旅人，孤独是他的伙伴，看惯了陌生的风景，习惯了孤独的陪伴，也许他会一直飘荡，像断了线的风筝，只在心底一遍遍描摩故乡，思念绝口不提却长出翅膀带着他的心飞向亲人的身旁。</p>
+          <p>午后的阳光总是给人一种倦息的慵懒，我站在阳台闭着眼睛享受着阳光带来的温暖，体味着诸如自由，快活的字眼儿和滋味，心是敞开着的。</p>
+         
+        </div>
+        <div class="article" style="padding:5px 20px 2px 20px; background:none; border:0;">
+          <p><span></a></span></p>
+        </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2>Menu</h2>
+          <div class="clr"></div>
+          <ul class="sb_menu">
+            <li><a href="../menu/one.html">月光</a></li>
+            <li><a href="../menu/two.html">二月兰</a></li>
+            <li><a href="../menu/three.html">白菜玫瑰</a></li>
+            <li><a href="../menu/four.html">骆驼和山羊</a></li>
+            <li><a href="../menu/five.html">片刻的忏悔</a></li>
+          </ul>
+        </div>
+        <div class="gadget">
+          <h2><span>FriendlyLink</span></h2>
+          <div class="clr"></div>
+          <ul class="ex_menu">
+            <li><a href="../menu/magicHat.html" title="Website Templates">魔法帽子</a><br />
+              实验课编写的魔法帽子示例</li>
+            <li><a href="../menu/pobaby.html" title="WordPress Themes">小破孩</a><br />
+             “javascript+css的应用”实验中做的示例</li>
+        </div>
+        <div class="gadget">
+          <h2>Wise Words</h2>
+          <div class="clr"></div>
+          <p>   <img src="../images/test_1.gif" alt="image" width="18" height="17" /> <em>读书时，我愿在每一个美好思想的面前停留，就像在每一条真理面前停留一样。</em><img src="../images/test_2.gif" alt="image" width="18" height="17" /></p>
+          <p style="float:right;"><strong>爱默生</strong></p>
+          </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span></span></h2>
+		 <p><font size="6">我的信息</font><br/><br/>
+         姓名：赵亮  <br/>                               
+		 学号：2012234030212 <br/>       
+		 班级：网络1201班   <br/>      
+		 </p>
+       </div>
+      <div class="col c2">
+        <p><font size="6">电子邮件</font><br/><br/>
+          435552365@qq.com<br/>
+      </div>
+      <div class="col c3">
+        <h2><span></span></h2>
+		<p><font size="6">电话</font><br/><br/>
+		15131272520 <br/>
+      </div>
+      <div class="clr"></div>
+    </div>
+    <div class="footer">
+	<div class="clr"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
